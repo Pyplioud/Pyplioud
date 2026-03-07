@@ -7,6 +7,10 @@ Physics undergraduate interested in:
 - Scientific computing
 - Python programming
 - Machine learning
+  
+## Current projects
+
+- Gravitational force simulations
 
 ## Tools
 
