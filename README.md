@@ -12,8 +12,10 @@ Physics undergraduate interested in:
 
 - Gravitational force simulations
 
-## Tools
+## Tools used
 
 - Python
 - Git
 - VS Code
+- Matplotlib
+- NumPy 
