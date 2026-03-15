@@ -10,8 +10,8 @@ Physics undergraduate interested in:
   
 ## Current projects
 
-- Gravitational force simulations
-- Sunspots registered throughout the years
+- Gravitational Force Simulations
+- Historical Sunspot Analysis
 
 ## Tools used
 
