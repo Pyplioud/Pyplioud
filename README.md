@@ -1,4 +1,4 @@
-## Hi there, I'm Andrei 👋
+## Heyy, I'm Andrei 👋
 
 Physics undergraduate interested in:
 
