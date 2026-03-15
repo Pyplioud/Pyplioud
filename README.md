@@ -4,8 +4,7 @@ Physics undergraduate interested in:
 
 - Astrophysics
 - Meteorology
-- Scientific computing
-- Python programming
+- Data Science
 - Machine learning
   
 ## Current projects
