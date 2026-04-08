@@ -11,6 +11,9 @@ Physics undergraduate interested in:
 
 - Gravitational Force Simulations
 - Historical Sunspot Analysis
+- Solar-Hemispheric-Analysis
+- Solar-Terrestrial-Coupling-Analysis
+
 
 ## Tools used
 
