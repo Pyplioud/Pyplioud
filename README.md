@@ -8,7 +8,7 @@ Physics undergraduate interested in:
 - Machine learning
   
 ## Current projects
-
+- SAA-Geomagnetic-Dynamics
 - Gravitational Force Simulations
 - Historical Sunspot Analysis
 - Solar-Hemispheric-Analysis
