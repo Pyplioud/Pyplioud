@@ -7,12 +7,13 @@ Physics undergraduate interested in:
 - Data Science
 - Machine learning
   
-## Current projects
-- SAA-Geomagnetic-Dynamics
+## Current projects (chronological order)
 - Gravitational Force Simulations
 - Historical Sunspot Analysis
 - Solar-Hemispheric-Analysis
 - Solar-Terrestrial-Coupling-Analysis
+- SAA-Geomagnetic-Dynamics
+- Weather-Forecasting-POA 
 
 
 ## Tools used
