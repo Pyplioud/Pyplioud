@@ -14,7 +14,7 @@ Physics undergraduate interested in:
 - Solar-Terrestrial-Coupling-Analysis
 - SAA-Geomagnetic-Dynamics
 - Weather-Forecasting-POA 
-
+- UR-Solar-Deep-Learning
 
 ## Tools used
 
