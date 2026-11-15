@@ -2,10 +2,10 @@
 
 Physics undergraduate interested in:
 
-- Astrophysics
 - Meteorology
-- Data Science
 - Machine learning
+- Astrophysics
+- Data Science
   
 ## Current projects (chronological order)
 - Gravitational Force Simulations
