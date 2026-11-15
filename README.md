@@ -1,5 +1,5 @@
 ## Hey there! I'm Andrei 😉
-  main page: https://pyplioud.github.io/
+
 Physics undergraduate interested in:
 
 - Meteorology
@@ -26,3 +26,5 @@ Physics undergraduate interested in:
 - Pandas
 - Scikit-Learn
 - PyTorch
+
+# main page: https://pyplioud.github.io/
