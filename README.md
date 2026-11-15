@@ -28,4 +28,4 @@ Physics undergraduate interested in:
 - PyTorch
 
 
-main page: https://pyplioud.github.io/
+My main page: https://pyplioud.github.io/
