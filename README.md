@@ -27,4 +27,5 @@ Physics undergraduate interested in:
 - Scikit-Learn
 - PyTorch
 
-# main page: https://pyplioud.github.io/
+
+main page: https://pyplioud.github.io/
