@@ -22,4 +22,7 @@ Physics undergraduate interested in:
 - Git
 - VS Code
 - Matplotlib
-- NumPy 
+- NumPy
+- Pandas
+- Scikit-Learn
+- PyTorch
